@@ -1,4 +1,7 @@
-# test coverage for  [gulp-phpcs (v1.4.0)](https://github.com/JustBlackBird/gulp-phpcs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-phpcs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-phpcs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-phpcs.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-phpcs)
+# npmtest-gulp-phpcs
+
+#### test coverage for  [gulp-phpcs (v1.4.0)](https://github.com/JustBlackBird/gulp-phpcs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-phpcs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-phpcs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-phpcs.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-phpcs)
+
 #### PHP Code Sniffer plugin for Gulp
 
 [![NPM](https://nodei.co/npm/gulp-phpcs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-phpcs)
